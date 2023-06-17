@@ -11,19 +11,19 @@ else {
 
 let userName = "mariam";
 if (userName == "mariam") {
-    console.log("true");
+    console.log(true);
 }
 else {
-    console.log("false");
+    console.log(false);
 }
 
 let secName = "mariam"
 switch (secName) {
     case "mariam":
-        console.log("true");
+        console.log(true);
         break;
 
     default:
-        console.log("false");
+        console.log(false);
         break;
 }
