@@ -1,3 +1,5 @@
+// -1
+
 let num = 100;
 if (num < 50) {
     console.log("Less than 50");
@@ -9,6 +11,9 @@ else {
     console.log(error);
 }
 
+// -2
+
+
 let userName = "mariam";
 if (userName == "mariam") {
     console.log(true);
@@ -16,6 +21,9 @@ if (userName == "mariam") {
 else {
     console.log(false);
 }
+
+// -3
+
 
 let secName = "mariam"
 switch (secName) {
